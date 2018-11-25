@@ -4,6 +4,9 @@ EX_BATCH_DRUSH9
 This is a simple example of creating a custom Drush 9 command to launch
 a batch process.
 
+Read the blog post here:
+http://karimboudjema.com/en/drupal/20181127/how-run-batch-processing-custom-drush-9-command-drupal-8
+
 This kind of command can be launched by a *nix crontab or by the
 console command line.
 
