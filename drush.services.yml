@@ -1,0 +1,6 @@
+services:
+  ex_batch_drush9.commands:
+    class: \Drupal\ex_batch_drush9\Commands\ExBatchDrush9Commands
+    tags:
+      - { name: drush.command }
+    arguments: ['@entity_type.manager', '@logger.factory']

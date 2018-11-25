@@ -1,0 +1,5 @@
+name: 'ex_batch_drush9'
+type: module
+description: 'Example using batch with a Drush 9 custom command'
+core: 8.x
+package: 'Custom'
